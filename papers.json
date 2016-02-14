@@ -2,91 +2,91 @@ var paperdata =
   [{
     "pAuthors": "Jost Berthold, Hans-Wolfgang Loidl, and Kevin Hammond.",
     "pWordle": "wordle/JFP16PAEAN.png",
-    "pPdf": "papers/BertholdLoidlHammond_JFP16PAEAN-authorVersion.pdf",
+    "pPdf": "pdf/BertholdLoidlHammond_JFP16PAEAN-authorVersion.pdf",
     "pTitle": "PAEAN: Portable and Scalable Runtime Support for Parallel Haskell Dialects",
     "pInfo": "Accepted for publication in <em>Journal of Functional Programming</em> (January 2016), forthcoming."
    },
    {
     "pAuthors": "Patrick Bahr, Jost Berthold, and Martin Elsman.",
     "pWordle": "wordle/ICFP15Contracts.png",
-    "pPdf": "papers/ICFP15Contracts-authorversion.pdf",
+    "pPdf": "pdf/ICFP15Contracts-authorversion.pdf",
     "pTitle": "Certified symbolic management of financial multi-party contracts.",
     "pInfo": "In: Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming (ICFP 2015)<br><a href='http://dl.acm.org/citation.cfm?id=2784747'>Pages: 315--327, New York: ACM, 2015</a>."
    },
    {
     "pAuthors": "Mustafa Aswad, Phil Trinder, Abyd Al Zain, Greg Michaelson, and Jost Berthold.",
     "pWordle": "wordle/TFP09HOSCNoPain.png",
-    "pPdf": "papers/TFP09HOSC12-withCopyright.pdf",
+    "pPdf": "pdf/TFP09HOSC12-withCopyright.pdf",
     "pTitle": "Low Pain vs. No Pain Multicore Haskells.",
     "pInfo": "In Journal: \u003ca href=\"http://link.springer.com/journal/10990\"\u003eHigher-Order and Symbolic Computation (HOSC)\u003c/a\u003e,Springer, 2014."
    },
    {
     "pAuthors": "Mischa Dieterle, Thomas Horstmeyer, Jost Berthold, and Rita Loogen",
     "pWordle": "wordle/IFL12Iteration.png",
-    "pPdf": "papers/IFL12Iteration-withCopyright.pdf",
+    "pPdf": "pdf/IFL12Iteration-withCopyright.pdf",
     "pTitle": "Iterating Skeletons: Structured Parallelism by Composition.",
     "pInfo": "In Ralf Hinze and Andy Gill, editors, \u003cEM\u003eIFL'12, 24thSymposium on Implementation and Application of Functional Languages\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 8241, 2013.The original publication is available at \u003ca href=\"http://link.springer.com/\"\u003elink.springer.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Cosmin Oancea, Christian Andreetta, Jost Berthold, Alain Frisch, and Fritz\n  Henglein.",
     "pWordle": "wordle/FHPC12Pricing.png",
-    "pPdf": "papers/FHPC12HIPERFIT.pdf",
+    "pPdf": "pdf/FHPC12HIPERFIT.pdf",
     "pTitle": "Financial Software on GPUs: Between Haskell and Fortran.",
     "pInfo": "In Clemens Grelck and Andrzej Filinski, editors,\u003cEM\u003e1st ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC), Proceedings\u003c/EM\u003e,\u003ca href=\"http://dl.acm.org/citation.cfm?id=2364484\"\u003epages 61-72, New York: ACM, 2012.\u003c/a\u003e"
    },
    {
     "pAuthors": "Jost Berthold, Andrzej Filinski, Fritz Henglein, Ken Friis Larsen, Mogens\n  Steffensen, and Brian Vinter.",
     "pWordle": "wordle/TFP11Hiperfit.png",
-    "pPdf": "papers/TFP2011HIPERFIT.pdf",
+    "pPdf": "pdf/TFP2011HIPERFIT.pdf",
     "pTitle": "Functional High Performance Financial IT - The HIPERFIT Research\n  Center in Copenhagen.",
     "pInfo": "In Ricardo Pe&#241;a-Mar&#237; and Rex Page, editors, \u003cEM\u003eTrends inFunctional Programming (TFP'11) - Revised Selected Papers\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 7193, pages 98-113, 2012.The original publication is available at \u003ca href=\"http://www.springerlink.com/content/8110474427776v43/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Jost Berthold, Jonas Bardino, and Brian Vinter.",
     "pWordle": "wordle/ICA3PP11Mig.png",
-    "pPdf": "papers/ICA3PP2011MiG.pdf",
+    "pPdf": "pdf/ICA3PP2011MiG.pdf",
     "pTitle": "A Principled Approach to Grid Middleware - Status report on the\n  Minimum intrusion Grid.",
     "pInfo": "In \u003cEM\u003e11th Intl. Conference on Algorithms and Architectures forParallel Processing (ICA3PP'11), Part 1\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 7016, pages 410-419,2011.The original publication is available at \u003ca href=\"http://www.springerlink.com/content/30330087451r8p75/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Chris Brown, Hans-Wolfgang Loidl, Jost Berthold, and Kevin Hammond.",
     "pWordle": "wordle/IFL10Cash.png",
-    "pPdf": "papers/cashIFL10-withCopyright.pdf",
+    "pPdf": "pdf/cashIFL10-withCopyright.pdf",
     "pTitle": "Improve your CASH flow: The Computer Algebra SHell.",
     "pInfo": "In Jurriaan Hage and Marco Morazan, editors, \u003cEM\u003eIFL'10, 22ndSymposium on Implementation and Application of Functional Languages\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 6647, pages 169-184, 2011.The original publication is available at \u003ca href=\"http://www.springerlink.com/content/v3782q2725558734/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Jost Berthold.",
     "pWordle": "wordle/IFL10Serial.png",
-    "pPdf": "papers/mainIFL10-withCopyright.pdf",
+    "pPdf": "pdf/mainIFL10-withCopyright.pdf",
     "pTitle": "Orthogonal Serialisation for Haskell.",
     "pInfo": "In Jurriaan Hage and Marco Morazan, editors, \u003cEM\u003eIFL'10, 22ndSymposium on Implementation and Application of Functional Languages\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 6647, pages 38-53, 2011.The original publication is available at \u003ca href=\"http://www.springerlink.com/content/78642611n7623551/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Mischa Dieterle, Jost Berthold, and Rita Loogen.",
     "pWordle": "wordle/FLOPS10WorkPool.png",
-    "pPdf": "papers/mainFLOPS10-withCopyright.pdf",
+    "pPdf": "pdf/mainFLOPS10-withCopyright.pdf",
     "pTitle": "A Skeleton for Distributed Work Pools in Eden.",
     "pInfo": "In Matthias Blume, Naoki Kobayashi, and Germ&#225;n Vidal, editors,\u003cEM\u003eFLOPS'10, 10th Fuji International Symposium on Functional and LogicProgramming.\u003c/EM\u003e,\u003cBR\u003e Springer LNCS 6009, pages 337-353, 2010.The original publication is available at \u003ca href=\"http://www.springerlink.com/content/jq8757447p227631/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Jost Berthold, Mischa Dieterle, and Rita Loogen.",
     "pWordle": "wordle/EuroPar09MapReduce.png",
-    "pPdf": "papers/EuroPar09GMR.pdf",
+    "pPdf": "pdf/EuroPar09GMR.pdf",
     "pTitle": "Implementing Parallel Google Map-Reduce in Eden.",
     "pInfo": "In H.&nbsp;Sips, D.&nbsp;Epema, and H.X. Lin, editors, \u003cEM\u003eEuro-Par 2009,Parallel Processing\u003c/EM\u003e,\u003cBR\u003e Springer LNCS 5704, pages 990-1002, 2009.The original publication is available at\u003ca href=\"http://www.springerlink.com/content/f701227q86554286/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Oleg Lobachev, Jost Berthold, Mischa Dieterle, and Rita Loogen.",
     "pWordle": "wordle/PACT09ParFFT.png",
-    "pPdf": "papers/PaCT09ParFFT.pdf",
+    "pPdf": "pdf/PaCT09ParFFT.pdf",
     "pTitle": "Parallel FFT using Eden Skeletons.",
     "pInfo": "In \u003cEM\u003ePaCT 2009: 10th International Conference on Parallel ComputingTechnologies \u003c/EM\u003e(Novosibirsk, Russia),\u003cBR\u003e\u003ca href=\"http://www.springer.com/computer/programming/book/978-3-642-03274-5\"\u003eSpringer LNCS 5698\u003c/a\u003e, 2009.The original publication is available at\u003ca href=\"http://www.springerlink.com/content/8605p36n82v52376/\"\u003ewww.springerlink.com\u003c/a\u003e."
    },
    {
     "pAuthors": "Mustafa Aswad, Phil Trinder, A.&nbsp;D. Al Zain, Greg Michaelson, and Jost\n  Berthold.",
     "pWordle": null,
-    "pPdf": "papers/TFP09-LowvsNoPainHaskells.pdf",
+    "pPdf": "pdf/TFP09-LowvsNoPainHaskells.pdf",
     "pTitle": "Low Pain vs. No Pain Multicore Haskells.",
     "pInfo": "In Zolt&#225;n Horv&#225;th, Vikt&#243;ria Zs&#243;k, Peter Achten, and PieterKoopman, editors, \u003cEM\u003eTrends in Functional Programming, 10th InternationalSymposium, Kom&#225;rno, Slovakia, 2009, Revised Selected Papers (TFP'09)\u003c/EM\u003e,\u003cBR\u003e Exeter: Intellect, pages 49-64, 2010."
    },
@@ -107,7 +107,7 @@ var paperdata =
    {
     "pAuthors": "A.&nbsp;D. Al Zain, Kevin Hammond, Jost Berthold, Phil Trinder, Greg Michaelson,\n  and Mustafa Aswad.",
     "pWordle": null,
-    "pPdf": "",
+    "pPdf": null,
     "pTitle": "Low-pain, high-gain multicore programming in Haskell: coordinating\n  irregular symbolic computations on multicore architectures.",
     "pInfo": "In \u003cEM\u003eDAMP '09: Proceedings of the 4th workshop on Declarativeaspects of multicore programming\u003c/EM\u003e,\u003cBR\u003e \u003ca href=\"http://dl.acm.org/citation.cfm?id=1629639\"\u003epages 25-36, New York: ACM, 2009.\u003c/a\u003e"
    },
@@ -128,84 +128,84 @@ var paperdata =
    {
     "pAuthors": "A.D. Al Zain, Jost Berthold, Kevin Hammond, and Phil Trinder.",
     "pWordle": "wordle/OSGC08SymGridPar.png",
-    "pPdf": "papers/AbydAlZainOSGC08.pdf",
+    "pPdf": "pdf/AbydAlZainOSGC08.pdf",
     "pTitle": "Orchestrating Production Computer Algebra Components into Portable\n  Parallel Programs.",
     "pInfo": "In \u003cEM\u003e\u003ca href=\"http://en.scientificcommons.org/54253725\"\u003eOpen Source Grid and Cluster Conference\u003c/a\u003e\u003c/EM\u003e, Oakland(CA), USA,May 2008."
    },
    {
     "pAuthors": "Jost Berthold, Mischa Dieterle, Rita Loogen, and Steffen Priebe.",
     "pWordle": "wordle/PADL08HMWS.png",
-    "pPdf": "papers/PADL08HMWS.pdf",
+    "pPdf": "pdf/PADL08HMWS.pdf",
     "pTitle": "Hierarchical Master-Worker Skeletons.",
     "pInfo": "In Paul Hudak and David Warren, editors, \u003cEM\u003ePADL'08 -- PracticalAspects of Declarative Languages\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 4902, pages 133-152, 2008.\u003ca href=\"http://www.springerlink.com/content/609211488uq342k7/\"\u003e(Springer)\u003c/a\u003e"
    },
    {
     "pAuthors": "Jost Berthold, Hans-Wolfgang Loidl, and A.D. Al Zain.",
     "pWordle": "wordle/PADL08GenRTE.png",
-    "pPdf": "papers/PADL08GenRTE.pdf",
+    "pPdf": "pdf/PADL08GenRTE.pdf",
     "pTitle": "Scheduling Light-Weight Parallelism in ArTCoP.",
     "pInfo": "In Paul Hudak and David Warren, editors, \u003cEM\u003ePADL'08 -- PracticalAspects of Declarative Languages\u003c/EM\u003e,\u003cBR\u003eSpringer LNCS 4902, pages 214-229, 2008.\u003ca href=\"http://www.springerlink.com/content/9m3m027068624605/\"\u003e(Springer)\u003c/a\u003e"
    },
    {
     "pAuthors": "Jost Berthold and Rita Loogen.",
     "pWordle": "wordle/ParCo07EdenTV.png",
-    "pPdf": "papers/ParCo07EdenTV.pdf",
+    "pPdf": "pdf/ParCo07EdenTV.pdf",
     "pTitle": "Visualizing Parallel Functional Program Runs - Case Studies with\n  the Eden Trace Viewer -.",
     "pInfo": "In \u003cEM\u003eParallel Computing: Architectures, Algorithms and Applications.Proceedingsof the International Conference ParCo 2007,September 2007\u003c/EM\u003eCentral Institute for Applied Mathematics, J&#252;lich,Germany, 2007."
    },
    {
     "pAuthors": "Jost Berthold and Rita Loogen.",
     "pWordle": "wordle/IFL06Edi.png",
-    "pPdf": "papers/Eden-IFL06-webversion.pdf",
+    "pPdf": "pdf/Eden-IFL06-webversion.pdf",
     "pTitle": "Parallel coordination made explicit in a functional setting.",
     "pInfo": "In Zolt&#225;n Horv&#225;th and Vikt&#243;ria Zs&#243;k, editors, \u003cEM\u003e18thIntl. Symposium on the Implementation of Functional Languages (IFL 2006)\u003c/EM\u003e,\u003ca href=\"http://www.springer.com/computer/programming/book/978-3-540-74129-9\"\u003eSpringer LNCS 4449\u003c/a\u003e,Budapest, Hungary, 2006.\u003ca href=\"http://www.ifl-workshops.org\"\u003e\u003cBR\u003eAwarded best paper of IFL 2006 (Peter Landin-Prize).\u003c/a\u003e"
    },
    {
     "pAuthors": "Jost Berthold and Rita Loogen.",
     "pWordle": "wordle/ParCo05RecTopSkels.png",
-    "pPdf": "papers/recTopSkels.pdf",
+    "pPdf": "pdf/recTopSkels.pdf",
     "pTitle": "Skeletons for recursively unfolding process topologies.",
     "pInfo": "In Gerhard&nbsp;R. Joubert, Wolfgang&nbsp;E. Nagel, Frans&nbsp;J. Peters, Oscar&nbsp;G.Plata, P.&nbsp;Tirado, and Emilio&nbsp;L. Zapata, editors, \u003cEM\u003eParallel Computing:Current &amp; Future Issues of High-End Computing, Proceedings of theInternational Conference ParCo 2005, 13-16 September 2005, Department ofComputer Architecture, University of Malaga, Spain\u003c/EM\u003e, volume&nbsp;33 of \u003cEM\u003eJohnvon Neumann Institute for Computing Series\u003c/EM\u003e. Central Institute for AppliedMathematics, J&#252;lich, Germany, 2005."
    },
    {
     "pAuthors": "Jost Berthold and Rita Loogen.",
     "pWordle": "wordle/HLPP05DynamicChannels.png",
-    "pPdf": "papers/BertholdLoogenHLPP05.PPL.pdf",
+    "pPdf": "pdf/BertholdLoogenHLPP05.PPL.pdf",
     "pTitle": "The impact of dynamic channels on functional topology skeletons.",
     "pInfo": "\u003cEM\u003eParallel Processing Letters (World Scientific PublishingCompany), 18(1): 101-115\u003c/EM\u003e, March 2008."
    },
    {
     "pAuthors": "Jost Berthold and Rita Loogen.",
     "pWordle": "wordle/HLPP05DynamicChannels.png",
-    "pPdf": "papers/BertholdLoogenHLPP05.pdf",
+    "pPdf": "pdf/BertholdLoogenHLPP05.pdf",
     "pTitle": "The impact of dynamic channels on functional topology skeletons.",
     "pInfo": "In Alexander Tiskin and Frederic Loulergue, editors, \u003cEM\u003eHLPP 2005-- 3rd International Workshop on High-level Parallel Programming andApplications\u003c/EM\u003e, Coventry, UK, 2005.\u003cBR\u003eProceedings."
    },
    {
     "pAuthors": "Jost Berthold.",
     "pWordle": "wordle/PAPP04GenRTE.png",
-    "pPdf": "papers/PAPP04.pdf",
+    "pPdf": "pdf/PAPP04.pdf",
     "pTitle": "Towards a generalised runtime environment for parallel haskells.",
     "pInfo": "In Marian&nbsp;Bubak et&nbsp;al., editor, \u003cEM\u003eComputational Science --ICCS'04\u003c/EM\u003e, number&nbsp;3 in LNCS 3038, Krakow, Poland, 2004. Springer.\u003cBR\u003e(Workshop on Practical Aspects of High-level Parallel Programming-- PAPP04)."
    },
    {
     "pAuthors": "Jost Berthold.",
     "pWordle": "wordle/IFL03Chunking.png",
-    "pPdf": "papers/IFL03.pdf",
+    "pPdf": "pdf/IFL03.pdf",
     "pTitle": "Dynamic Chunking in Eden.",
     "pInfo": "In Phil Trinder, Greg Michaelson, and Ricardo Pe&#241;a, editors, \u003cEM\u003e  15th Intl. Workshop on the Implementation of Functional Languages (IFL2003)\u003c/EM\u003e, LNCS 3145, Edinburgh, UK, 2003."
    },
    {
     "pAuthors": "Jost Berthold, Ulrike Klusik, Rita Loogen, Steffen Priebe, and Nils Weskamp.",
     "pWordle": "wordle/EuroPar03Eden.png",
-    "pPdf": "papers/edenEuropar03.pdf",
+    "pPdf": "pdf/edenEuropar03.pdf",
     "pTitle": "High-level Process Control in Eden.",
     "pInfo": "In Harald Kosch, L&#225;szl&#243; B&#246;sz&#246;rm&#233;nyi, and HerrmannHellwagner, editors, \u003cEM\u003eEuroPar 2003 - Parallel Processing\u003c/EM\u003e, LNCS 2790,Klagenfurt, Austria, 2003."
    },
    {
     "pAuthors": "Kevin Hammond, Jost Berthold, and Rita Loogen.",
     "pWordle": "wordle/HLPP03AutoSkel.png",
-    "pPdf": "papers/AutoSkelPPL03.pdf",
+    "pPdf": "pdf/AutoSkelPPL03.pdf",
     "pTitle": "Automatic Skeletons in Template Haskell.",
     "pInfo": "\u003cEM\u003eParallel Processing Letters (World Scientific PublishingCompany)\u003c/EM\u003e, 13(3):413-424, 2003."
    },
