@@ -1,5 +1,19 @@
 var paperdata =
   [{
+    "pAuthors": "Jost Berthold, Hans-Wolfgang Loidl, and Kevin Hammond.",
+    "pWordle": "wordle/JFP16PAEAN.png",
+    "pPdf": "papers/BertholdLoidlHammond_JFP16PAEAN-authorVersion.pdf",
+    "pTitle": "PAEAN: Portable and Scalable Runtime Support for Parallel Haskell Dialects",
+    "pInfo": "Accepted for publication in <em>Journal of Functional Programming</em> (January 2016), forthcoming."
+   },
+   {
+    "pAuthors": "Patrick Bahr, Jost Berthold, and Martin Elsman.",
+    "pWordle": "wordle/ICFP15Contracts.png",
+    "pPdf": "papers/ICFP15Contracts-authorversion.pdf",
+    "pTitle": "Certified symbolic management of financial multi-party contracts.",
+    "pInfo": "In: Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming (ICFP 2015)<br><a href='http://dl.acm.org/citation.cfm?id=2784747'>Pages: 315--327, New York: ACM, 2015</a>."
+   },
+   {
     "pAuthors": "Mustafa Aswad, Phil Trinder, Abyd Al Zain, Greg Michaelson, and Jost Berthold.",
     "pWordle": "wordle/TFP09HOSCNoPain.png",
     "pPdf": "papers/TFP09HOSC12-withCopyright.pdf",
