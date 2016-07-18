@@ -1,10 +1,17 @@
 var paperdata =
   [{
+    "pAuthors": "Mischa Dieterle, Thomas Horstmeyer, Rita Loogen, and Jost Berthold.",
+    "pWordle": "wordle/JFP16SkelComposition.png",
+    "pPdf": "pdf/DieterleHorstMeyerLoogenBerthold_JFP16SkelCompose-authorVersion.pdf",
+    "pTitle": "Skeleton composition versus stable process systems in Eden",
+    "pInfo": "<em>Journal of Functional Programming</em>, Vol.26 (2016), e11 (published July 2016)."
+   },
+   {
     "pAuthors": "Jost Berthold, Hans-Wolfgang Loidl, and Kevin Hammond.",
     "pWordle": "wordle/JFP16PAEAN.png",
     "pPdf": "pdf/BertholdLoidlHammond_JFP16PAEAN-authorVersion.pdf",
     "pTitle": "PAEAN: Portable and Scalable Runtime Support for Parallel Haskell Dialects",
-    "pInfo": "Accepted for publication in <em>Journal of Functional Programming</em> (January 2016), forthcoming."
+    "pInfo": "<em>Journal of Functional Programming</em>, Vol.26 (2016), e10 (published July 2016)."
    },
    {
     "pAuthors": "Patrick Bahr, Jost Berthold, and Martin Elsman.",
